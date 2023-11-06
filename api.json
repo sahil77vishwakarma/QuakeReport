@@ -1,0 +1,631 @@
+
+{
+  "status": "ok",
+  "totalResults": 48,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "I lost 11 members of my family: Earthquake victim",
+      "description": "Entire villages were levelled after a 6.3-magnitude earthquake struck the province of Herat in Afghanistan.",
+      "url": "https://www.bbc.co.uk/news/av/world-asia-67062206",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/30BD/production/_131377421_p0gkhqhk.jpg",
+      "publishedAt": "2023-10-10T04:51:17Z",
+      "content": "Entire villages were levelled after a 6.3-magnitude earthquake struck the province of Herat in Afghanistan on Saturday. Over 1,000 people were killed. The UN says villagers continue to use shovels an… [+68 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Afghanistan earthquake: At least 14 killed and 78 injured in 6.3 quake",
+      "description": "The 6.3 magnitude quake struck about 40km from the western city of Herat on Saturday morning.",
+      "url": "https://www.bbc.co.uk/news/world-asia-67039463",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14D1B/production/_131357258_gettyimages-1711427184.jpg",
+      "publishedAt": "2023-10-07T11:31:35Z",
+      "content": "At least 14 people have been killed and 78 injured after an earthquake hit western Afghanistan, officials say. \r\nThe US Geological Survey said the 6.3 magnitude earthquake struck about 40km from the … [+620 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Deadly earthquake strikes remote western Nepal",
+      "description": "Security forces are helping rescue efforts in the rugged districts of Jajarkot and Rukum.",
+      "url": "https://www.bbc.co.uk/news/world-asia-67317442",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A12D/production/_131616214_gettyimages-1762325670.jpg",
+      "publishedAt": "2023-11-04T02:46:53Z",
+      "content": "More than 100 people have been killed after an earthquake struck remote western Nepal on Friday.\r\nSecurity forces have been deployed to help rescue efforts in the rugged districts of Jajarkot and Ruk… [+2243 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Riley Hoffman",
+      "title": "Magnitude 5.6 earthquake hits Nepal: USGS",
+      "description": "The quake was felt in neighboring India.",
+      "url": "https://abcnews.go.com/International/magnitude-56-earthquake-hits-nepal-usgs/story?id=104620611",
+      "urlToImage": "https://i.abcnewsfe.com/a/fe316b05-5f55-4cb0-ace7-99ebbfb2bad1/nepal-earthquake-ht-jt-231103_1699050236244_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2023-11-03T22:31:40Z",
+      "content": "A strong magnitude 5.6 earthquake struck Nepal just before midnight on Friday.\r\nThe U.S. Geological Survey said the 5.6 magnitude quake had a depth of 17.9 kilometers (11.12 miles) near the mountain … [+73 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "EBRAHIM NOROOZI and RAHIM FAIEZ / AP",
+      "title": "Another 6.3 Magnitude Earthquake Shakes Part of Western Afghanistan",
+      "description": "The magnitude 6.3 earthquake on Wednesday was about 28 kilometers (17 miles) outside Herat, the provincial capital, and 10 kilometers (6 miles) deep.",
+      "url": "https://time.com/6322605/another-earthquake-western-afghanistan/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/10/western-earthquake-.jpg?quality=85",
+      "publishedAt": "2023-10-11T15:47:36Z",
+      "content": "CHAHAK, Afghanistan Another strong earthquake shook western Afghanistan on Wednesday morning after an earlier one killed more than 2,000 people and flattened whole villages in Herat province in what … [+5419 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Kevin Shalvey",
+      "title": "Strong earthquake hits western Afghanistan",
+      "description": "The quake had a preliminary magnitude of 6.3, the U.S. Geological Survey said.",
+      "url": "https://abcnews.go.com/International/strong-earthquake-hits-western-afghanistan/story?id=103989197",
+      "urlToImage": "https://i.abcnewsfe.com/a/36e78f72-9725-4b1c-9c46-eab658995f9c/earthquake_hpMain_20231015-012730_16x9.jpg?w=992",
+      "publishedAt": "2023-10-15T05:40:04Z",
+      "content": "LONDON -- A powerful 6.3-magnitude earthquake struck western Afghanistan early Sunday, the U.S. Geological Survey said.\r\nThe quake, which was centered about 30 kilometers (18 miles) north-northwest o… [+506 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Jolie Lash",
+      "title": "6.3 magnitude earthquake hits Afghanistan days after devastating weekend quakes",
+      "description": "A 6.3 magnitude earthquake has shaken Western Afghanistan.",
+      "url": "https://abcnews.go.com/International/63-magnitude-earthquake-hits-afghanistan-days-after-devastating/story?id=103879866",
+      "urlToImage": "https://i.abcnewsfe.com/a/0e1ce0be-7582-4723-a730-c2c65e65c3c8/afghanistan-earthquake-gty-lv-231010-2_1696986822138_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2023-10-11T01:54:38Z",
+      "content": "A 6.3 magnitude earthquake has shaken Western Afghanistan, just days after two quakes of the same magnitude left more than 1,200 dead.\r\nThe quake struck 28 kilometers (17.39 miles) Northwest of Hert,… [+443 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "A strong earthquake has shaken the Timor region of Indonesia but no deaths, injuries reported",
+      "description": "An earthquake of magnitude 6.1 has shaken Indonesia’s Timor island, causing panic and light damages to several buildings and houses but no immediate reports of casualties",
+      "url": "https://abcnews.go.com/International/wireStory/magnitude-61-earthquake-shaken-timor-region-indonesia-104557270",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-11-02T00:43:48Z",
+      "content": "JAKARTA, Indonesia -- An earthquake of magnitude 6.1 struck Indonesias Timor island on Thursday, causing panic and light damages to several buildings and houses but there no immediate reports of casu… [+1692 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "A 5.9-magnitude earthquake shakes southern Mexico but without immediate reports of damage",
+      "description": "A 5.9-magnitude earthquake has shaken southern Mexico Friday night, setting off alarms as far away as Mexico City, but without immediate reports of damage",
+      "url": "https://abcnews.go.com/International/wireStory/59-magnitude-earthquake-shakes-southern-mexico-immediate-reports-103803298",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-10-07T05:49:41Z",
+      "content": "MEXICO CITY -- A 5.9-magnitude earthquake shook southern Mexico Friday night, setting off alarms as far away as Mexico City, but without immediate reports of damage.\r\nThe U.S. Geological Survey said … [+883 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "More than 90% of people killed by Afghanistan quake were women and children, UN says",
+      "description": "U.N. officials say more than 90% of the people killed by a 6.3-magnitude earthquake in western Afghanistan were women and children",
+      "url": "https://abcnews.go.com/International/wireStory/90-people-killed-western-afghanistan-quake-women-children-103922707",
+      "urlToImage": "https://i.abcnewsfe.com/a/45e1424b-7444-4b97-a2e8-5a5bd2d47731/wirestory_e9ef4fd77603f2203e3695194fbf7851_12x5.jpg?w=992",
+      "publishedAt": "2023-10-12T13:36:04Z",
+      "content": "ISLAMABAD -- More than 90% of the people killed by a 6.3-magnitude earthquake in western Afghanistan last weekend were women and children, U.N. officials reported Thursday.\r\nTaliban officials said Sa… [+3172 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Powerful 6.6-earthquake strikes off coast of Chile and felt in neighboring Argentina",
+      "description": "A magnitude 6.6 earthquake has struck off the coast of northern Chile, and has been felt in several provinces of neighboring Argentina",
+      "url": "https://abcnews.go.com/International/wireStory/powerful-66-earthquake-strikes-off-coast-chile-felt-104509568",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-10-31T14:31:32Z",
+      "content": "SANTIAGO, Chile -- A magnitude 6.6 earthquake struck off the coast of northern Chile on Tuesday morning and was felt in several provinces of neighboring Argentina, but there were no immediate reports… [+828 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Associated Press",
+      "title": "Powerful Earthquake Hits West Afghanistan a Week After Quakes Killed Thousands In Same Region",
+      "description": "An earthquake struck western Afghanistan on Sunday, a week after strong quakes killed thousands of people in the same province.",
+      "url": "https://time.com/6324014/west-afghanistan-earthquake-deaths-injuries/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/10/AP23288441825671.jpg?quality=85",
+      "publishedAt": "2023-10-15T17:20:17Z",
+      "content": "ISLAMABAD A powerful 6.3 magnitude earthquake struck western Afghanistan on Sunday, just over a week after strong quakes and aftershocks killed thousands of people and flattened entire villages in th… [+1758 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Associated Press",
+      "title": "Two 6.3 Magnitude Earthquakes Kill At Least 15 in Western Afghanistan",
+      "description": "Two 6.3 magnitude earthquakes killed at least 15 and injured nearly 40 others in western Afghanistan on Saturday, said a spokesperson for the country's national disaster authority.",
+      "url": "https://time.com/6321605/earthquakes-western-afghanistan-death-toll/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/10/GettyImages-1241457542-1.jpg?quality=85",
+      "publishedAt": "2023-10-07T13:39:52Z",
+      "content": "ISLAMABAD Two 6.3 magnitude earthquakes killed at least 15 and injured nearly 40 others in western Afghanistan on Saturday, said a spokesperson for the country's national disaster authority.\r\nMohamma… [+1547 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Meredith Deliso",
+      "title": "At least 100 dead after powerful earthquakes strike western Afghanistan: UN",
+      "description": "At least 100 people are dead and at least 500 injured after powerful earthquakes struck western Afghanistan on Saturday, the United Nations said.",
+      "url": "https://abcnews.go.com/International/western-afghanistan-earthquakes/story?id=103808041",
+      "urlToImage": "https://i.abcnewsfe.com/a/d277bfef-8fb3-4700-a0a1-aa2b124e3420/afghanistan-earthquake-nc-jt-231007_1696698371949_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2023-10-07T19:26:50Z",
+      "content": "At least 100 people are dead and at least 500 injured after powerful earthquakes struck western Afghanistan on Saturday, the United Nations said.\r\nThe United States Geological Survey reported two 6.3… [+2226 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Hundreds feared dead after powerful earthquake rocks western Afghanistan",
+      "description": "A powerful magnitude-6.3 earthquake followed by strong aftershocks killed dozens of people in western Afghanistan on Saturday, the country's national disaster authority said.",
+      "url": "https://www.cbc.ca/news/world/afghanistan-earthquake-dead-1.6990380",
+      "urlToImage": "https://i.cbc.ca/1.6990379.1696710991!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1712264384.jpg",
+      "publishedAt": "2023-10-08T00:46:31Z",
+      "content": "A powerful magnitude-6.3 earthquake followed by strong aftershocks killed dozens of people in western Afghanistan on Saturday, the country's national disaster authority said.\r\nThe United Nations gave… [+3849 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Dozens killed after earthquake rocks northern Nepal",
+      "description": "Officials said early Saturday that the toll was expected to rise, noting that communications were cut off with many villages.",
+      "url": "https://www.cbc.ca/news/world/nepal-earthquake-1.7018563",
+      "urlToImage": "https://i.cbc.ca/1.7018583.1699051751!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/earthquake.jpg",
+      "publishedAt": "2023-11-03T23:01:07Z",
+      "content": "A strong earthquake shook northwestern Nepal districts just before midnight Friday, and officials said at least 54 people were dead and dozens more injured as rescuers searched mountain villages.\r\nOf… [+1342 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Powerful earthquake shakes west Afghanistan a week after devastating quakes hit same region",
+      "description": "A powerful 6.3 magnitude earthquake struck western Afghanistan on Sunday, just over a week after strong quakes and aftershocks killed thousands of people and flattened entire villages in the same region.",
+      "url": "https://www.cbc.ca/news/world/earthquake-afghanistan-1.6996712",
+      "urlToImage": "https://i.cbc.ca/1.6996729.1697359362!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1725657156.jpg",
+      "publishedAt": "2023-10-15T08:52:33Z",
+      "content": "A powerful magnitude-6.3 earthquake struck western Afghanistan on Sunday, just over a week after strong quakes and aftershocks killed thousands of people and flattened entire villages in the same reg… [+1447 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Ibtissem Guenfoud, Abdul Razzaq Al-Shami",
+      "title": "Giving birth in a war zone: The struggles of many Syrian mothers",
+      "description": "Bombing, displacement and devastating earthquakes have created a hostile environment for pregnant women and mothers in northwestern Syria.",
+      "url": "https://abcnews.go.com/International/giving-birth-war-zone-struggles-syrian-mothers/story?id=103776730",
+      "urlToImage": "https://i.abcnewsfe.com/a/a499dc5a-2f47-476a-936c-49508788876f/SyriaMothers_1696582438763_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2023-10-06T15:51:31Z",
+      "content": "Bombing, displacement and devastating earthquakes have created a hostile environment for pregnant women and mothers in northwestern Syria, medical professionals have warned.\r\nThe region is torn by a … [+6322 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Death toll from earthquakes in western Afghanistan rises to over 2,000, Taliban says",
+      "description": "The death toll from strong earthquakes that shook western Afghanistan has risen to 2,060, a Taliban government spokesperson said Sunday.",
+      "url": "https://www.cbc.ca/news/world/afghanistan-earthquakes-1.6990467",
+      "urlToImage": "https://i.cbc.ca/1.6990468.1696749244!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1712263900.jpg",
+      "publishedAt": "2023-10-08T09:39:47Z",
+      "content": "The death toll from strong earthquakes that shook western Afghanistan has risen to 2,060, a Taliban government spokesperson said Sunday. It's one of the deadliest earthquakes to strike the country in… [+4206 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "4.5-magnitude earthquake felt in Greater Victoria area",
+      "description": "Alison Bird, earthquake seismologist with natural resources Canada, says Sunday's quake is a good reminder that British Columbians should be prepared by practicing what to do in an earthquake and prearing and earthquake kit.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/earthquake-greater-victoria-1.6990956",
+      "urlToImage": "https://i.cbc.ca/1.6990963.1696875602!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/earthquake.jpg",
+      "publishedAt": "2023-10-09T19:23:07Z",
+      "content": "An earthquake in northwestern Washington state was felt around the Greater Victoria area Sunday evening.\r\nThe 4.5-magnitude quake hit about 65 kilometres southeast of Victoria, just to the east of th… [+1822 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "New earthquake flattens homes in area of Afghanistan where earlier quake killed over 2,000",
+      "description": "Another strong earthquake shook part of western Afghanistan on Wednesday morning after an earlier quake killed more than 2,000 and flattened whole villages.",
+      "url": "https://www.cbc.ca/news/world/afghanistan-earthquake-1.6992313",
+      "urlToImage": "https://i.cbc.ca/1.6992315.1697005817!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-afghanistan-earthquake.jpg",
+      "publishedAt": "2023-10-11T11:14:14Z",
+      "content": "Another strong earthquake shook part of western Afghanistan on Wednesday morning after an earlier quake killed more than 2,000 and flattened whole villages.\r\nThe latest magnitude 6.3 earthquake was a… [+2401 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "6.3 magnitude earthquake shakes part of western Afghanistan where quake on Saturday killed more than 2,000",
+      "description": "6.3 magnitude earthquake shakes part of western Afghanistan where quake on Saturday killed more than 2,000",
+      "url": "https://abcnews.go.com/Technology/wireStory/63-magnitude-earthquake-shakes-part-western-afghanistan-quake-103880312",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-10-11T01:33:53Z",
+      "content": "HERAT, Afghanistan -- 6.3 magnitude earthquake shakes part of western Afghanistan where quake on Saturday killed more than 2,000."
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "6.3 magnitude earthquake hits western Afghanistan, USGS says",
+      "description": "6.3 magnitude earthquake hits western Afghanistan, USGS says",
+      "url": "https://abcnews.go.com/International/wireStory/63-magnitude-earthquake-hits-western-afghanistan-usgs-103988651",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-10-15T04:54:00Z",
+      "content": "6.3 magnitude earthquake hits western Afghanistan, USGS says"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Earthquake rattles Greek island near Athens, but no injuries or serious damage reported",
+      "description": "A magnitude 5.1 earthquake rattled a Greek island near Athens, but no injuries or serious damage were immediately reported",
+      "url": "https://abcnews.go.com/Technology/wireStory/earthquake-rattles-greek-island-athens-injuries-damage-reported-104597721",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-11-03T08:06:06Z",
+      "content": "ATHENS, Greece -- A magnitude 5.1 earthquake rattled an island near Athens early Friday, but local officials had no immediate reports of injuries or serious damage.\r\nThe quake occurred under land nea… [+393 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "A 5.2 magnitude earthquake in Nepal damages dozens of homes and causes a landslide",
+      "description": "A 5.2 magnitude earthquake and some aftershocks have damaged nearly two dozen houses near Nepal's capital",
+      "url": "https://abcnews.go.com/International/wireStory/52-magnitude-earthquake-nepal-damages-dozens-homes-causes-104207301",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-10-22T15:34:02Z",
+      "content": "KATHMANDU, Nepal -- A 5.2 magnitude earthquake and some aftershocks damaged nearly two dozen houses in the hilly Dhading district near Nepal's capital Sunday, an official said.\r\nThe shaking also caus… [+1025 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "A glance at some of Nepal's deadliest earthquakes",
+      "description": "A magnitude 5.6 earthquake shook northwestern Nepal just before midnight Friday, killing at least 138 people with dozens more injured",
+      "url": "https://abcnews.go.com/International/wireStory/glance-nepals-deadliest-earthquakes-104628328",
+      "urlToImage": "https://i.abcnewsfe.com/a/c968bee1-b0b7-4772-a098-3f455b607fd9/wirestory_95622ad007ef8812462d912af01b1993_16x9.jpg?w=992",
+      "publishedAt": "2023-11-04T11:50:44Z",
+      "content": "KATHMANDU, Nepal -- A magnitude 5.6 earthquake shook northwestern Nepal just before midnight Friday, killing at least 138 people with dozens more injured. Officials said the death toll was expected t… [+1014 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Hezbollah leader praises Hamas attack, says all options against Israel 'on the table'",
+      "description": "Hezbollah leader Sayyed Hassan Nasrallah, speaking for the first time since the Israel-Hamas war erupted, warned on Friday that a wider conflict in the Middle East was a realistic possibility in a speech that was expected to indicate whether his group would w…",
+      "url": "https://www.cbc.ca/news/world/hezbollah-leader-israel-gaza-1.7017417",
+      "urlToImage": "https://i.cbc.ca/1.7017421.1699014389!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1247189736.jpg",
+      "publishedAt": "2023-11-03T15:54:25Z",
+      "content": "Hezbollah leader Sayyed Hassan Nasrallah, speaking for the first time since the Israel-Hamas war erupted, warned on Friday that a wider conflict in the Middle East was a realistic possibility in a sp… [+4841 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "BINAJ GURUBACHARYA / AP",
+      "title": "Nepal Rushes Rescue Operations After Strong Earthquake Kills at Least 157",
+      "description": "Survivors of a strong earthquake that shook Nepal's northwest described sudden shaking followed by houses collapsing.",
+      "url": "https://time.com/6331574/nepal-earthquake-rescues-death-toll/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/11/AP23308190714816.jpg?quality=85",
+      "publishedAt": "2023-11-04T16:40:40Z",
+      "content": "KATHMANDU, Nepal Survivors of a strong earthquake that shook Nepal s northwest in the middle of the night described sudden shaking followed by houses collapsing and burying entire families, as the de… [+3457 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Two 6.3 magnitude earthquakes kill at least 15 and injure dozens in Afghanistan",
+      "description": "The Taliban government says a powerful earthquake with several strong aftershocks killed dozens in western Afghanistan",
+      "url": "https://abcnews.go.com/International/wireStory/strong-earthquake-aftershocks-reported-western-afghanistan-103804478",
+      "urlToImage": "https://i.abcnewsfe.com/a/92d4306a-f071-47e6-9d2d-fc33cc9db63d/wirestory_ba6f50c0cd0590f179756077f5f01393_16x9.jpg?w=992",
+      "publishedAt": "2023-10-08T00:02:07Z",
+      "content": "ISLAMABAD -- A powerful magnitude-6.3 earthquake followed by strong aftershocks killed dozens of people in western Afghanistan on Saturday, the country's national disaster authority said.\r\nThe United… [+2950 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Earthquake slightly damages houses in southeastern Indonesia, but no casualties reported",
+      "description": "An earthquake has slightly damaged houses and other buildings in southeastern Indonesia",
+      "url": "https://abcnews.go.com/Technology/wireStory/earthquake-slightly-damages-houses-southeastern-indonesia-casualties-reported-104563981",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-11-02T04:14:11Z",
+      "content": "JAKARTA, Indonesia -- An earthquake slightly damaged houses and other buildings in southeastern Indonesia early Thursday, causing some panic but no apparent casualties. \r\nThe quake was strongly felt … [+1485 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Afghanistan hit by second earthquake in days",
+      "description": "More than 1,000 people have already died following Saturday's 6.3 magnitude quake.",
+      "url": "https://www.bbc.co.uk/news/world-asia-67073958",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BD5E/production/_131387484_afghanistanearthquake.png",
+      "publishedAt": "2023-10-11T01:58:16Z",
+      "content": "A second large earthquake has hit Afghanistan just days after a 6.3 magnitude quake in the same region killed more than 1,000 people. \r\nThe new quake, of the same magnitude, struck at around 05:10 lo… [+676 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Japan lifts a tsunami advisory issued after earthquake",
+      "description": "Japan issued a tsunami advisory after a strong earthquake struck near its outlying islands in the Pacific Ocean, but lifted it about two hours later",
+      "url": "https://abcnews.go.com/Technology/wireStory/japan-lifts-tsunami-advisory-issued-after-earthquake-hit-103744133",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-10-05T05:49:49Z",
+      "content": "TOKYO -- Japan issued a tsunami advisory Thursday after a strong earthquake struck near its outlying islands in the Pacific Ocean, but lifted it about two hours later. No damage was reported.\r\nThe ad… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Afghanistan earthquake: Race to rescue victims in Herat Province",
+      "description": "Hundreds are feared dead after the 6.3-magnitude quake hit remote villages in western Afghanistan.",
+      "url": "https://www.bbc.co.uk/news/world-asia-67047203",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/147CC/production/_131361938_18b91860-269e-4fcd-92ce-51e2595f47d5.jpg",
+      "publishedAt": "2023-10-08T14:40:35Z",
+      "content": "Emergency teams in Afghanistan are racing to rescue people from the rubble left by a powerful earthquake that struck the west of the country.\r\nHundreds of people are feared dead after the 6.3-magnitu… [+2495 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Anna Gordon",
+      "title": "How to Help Afghanistan Earthquake Victims",
+      "description": "More than 2,000 people have been killed and limited aid resources are available to help survivors.",
+      "url": "https://time.com/6322308/how-to-help-afghanistan-earthquake-victims/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/10/afghanistan-earthquake-how-to-help-1.jpg?quality=85",
+      "publishedAt": "2023-10-10T16:34:18Z",
+      "content": "At least 2,400 people were killed and 9,000 more were injured after a 6.3 magnitude earthquake struck Western Afghanistan on Saturday. The quake hit Zindajan, a rural district some 40km (25 miles) fr… [+4047 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "2 earthquakes strike northern B.C., just south of Alaska border",
+      "description": "Two small earthquakes have struck northern British Columbia, just south of the border with Alaska.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/earthquakes-hit-northern-bc-1.7011573",
+      "urlToImage": "https://i.cbc.ca/1.7011574.1698472164!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/earthquakes-map.jpg",
+      "publishedAt": "2023-10-28T06:02:40Z",
+      "content": "Two small earthquakes struck northern British Columbia, just south of the border with Alaska, on Friday night. \r\nEarthquakes Canada says the first quake was recorded at 8 p.m. PDT and registered at a… [+846 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "New earthquake hits western Afghanistan",
+      "description": "US seismologists say the magnitude 6.3 quake was in the Herat province already devastated by recent tremors.",
+      "url": "https://www.bbc.co.uk/news/world-asia-67114332",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2023-10-15T04:12:28Z",
+      "content": "The 2,500-year-old sport that still flourishes in India. VideoThe 2,500-year-old sport that still flourishes in India"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Earthquake country residents set to 'drop, cover and hold on' in annual ShakeOut quake drill",
+      "description": "People are set to duck under desks and tables in California and around the world for an annual drill practicing ways to stay safe during earthquakes",
+      "url": "https://abcnews.go.com/Technology/wireStory/earthquake-country-residents-set-drop-cover-hold-annual-104138680",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-10-19T15:10:09Z",
+      "content": "SACRAMENTO, Calif. -- People will duck under desks and tables in California and around the world on Thursday for an annual drill practicing ways to stay safe during earthquakes.\r\nUp and down the West… [+1687 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "6.3 magnitude earthquake hits western Afghanistan, USGS says",
+      "description": "6.3 magnitude earthquake hits western Afghanistan, USGS says",
+      "url": "https://abcnews.go.com/US/wireStory/63-magnitude-earthquake-hits-western-afghanistan-usgs-103988594",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-10-15T04:53:55Z",
+      "content": "6.3 magnitude earthquake hits western Afghanistan, USGS says"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "RAHIM FAIEZ Associated Press",
+      "title": "Senior Taliban officials visit villages struck by earthquake that killed at least 2,000 people",
+      "description": "A senior Taliban delegation is visiting western Afghanistan's Herat province in the aftermath of the powerful earthquake that killed at least 2,000 people and flattened entire villages",
+      "url": "https://abcnews.go.com/International/wireStory/senior-taliban-officials-visit-villages-struck-earthquake-killed-103826734",
+      "urlToImage": "https://i.abcnewsfe.com/a/05bf646f-08e8-485f-9c01-c69e074e94dc/wirestory_0aecf4c94979bd663d63922949f5ad0b_16x9.jpg?w=992",
+      "publishedAt": "2023-10-09T08:06:12Z",
+      "content": "ISLAMABAD -- A senior Taliban delegation was visiting western Afghanistans Herat province on Monday in the aftermath of the powerful earthquake that killed at least 2,000 people over the weekend and … [+3783 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "BINAJ GURUBACHARYA Associated Press",
+      "title": "Nepal rushes aid and rescue operations after strong quake shakes its northwest, killing at least 157",
+      "description": "Survivors of a strong earthquake that shook Nepal’s northwest in the middle of the night have described sudden shaking followed by houses collapsing and burying entire families, as the death toll rose to 157",
+      "url": "https://abcnews.go.com/International/wireStory/nepal-scrambles-rescue-survivors-quake-shook-northwest-killed-104627588",
+      "urlToImage": "https://i.abcnewsfe.com/a/33b76ecb-6e1e-48a4-a0f8-93efffef43ca/wirestory_e3fbed76b72419339d3c0edd9ad44ee2_16x9.jpg?w=992",
+      "publishedAt": "2023-11-04T21:58:28Z",
+      "content": "KATHMANDU, Nepal -- Survivors of a strong earthquake that shook Nepal s northwest in the middle of the night described sudden shaking followed by houses collapsing and burying entire families, as the… [+3463 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Earthquakes kill over 2,000 in Afghanistan. People are freeing the dead and injured with their hands",
+      "description": "A Taliban government spokesperson says the death toll from strong earthquakes that shook western Afghanistan has jumped to more than 2,000",
+      "url": "https://abcnews.go.com/International/wireStory/earthquakes-kill-2000-afghanistan-people-freeing-dead-injured-103814555",
+      "urlToImage": "https://i.abcnewsfe.com/a/4a1f3d2e-2fed-43ff-b386-197227f5504f/wirestory_155c12cd085d7aa8ee1fef5882e120f4_16x9.jpg?w=992",
+      "publishedAt": "2023-10-08T08:54:31Z",
+      "content": "ISLAMABAD -- Powerful earthquakes killed at least 2,000 people in western Afghanistan, a Taliban government spokesman said Sunday. Its one of the deadliest earthquakes to strike the country in two de… [+3294 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Toronto Afghans struggle to raise funds for earthquake victims back home",
+      "description": "After three earthquakes killed at least 1,500 people in western Afghanistan in less than two weeks, Afghans in Canada are trying to get money and supplies to people in desperate need.",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-afghanistan-earthquake-1.6999048",
+      "urlToImage": "https://i.cbc.ca/1.6990470.1696751431!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1712263937.jpg",
+      "publishedAt": "2023-10-18T08:00:00Z",
+      "content": "Nooria Kamran says the last two weeks have been some of the most difficult in her seven years helping Afghan children.\r\nKamran is executive director of the Toronto-based non-profit Children Without B… [+3296 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Afghan-Montrealers scramble to help loved ones back home after 2 earthquakes",
+      "description": "Montrealers with ties to Afghanistan are trying to raise funds and give back to people in need after the country was hit with two 6.3-magnitude earthquakes in four days.",
+      "url": "https://www.cbc.ca/news/canada/montreal/afghanistan-earthquakes-aid-quebec-1.6994902",
+      "urlToImage": "https://i.cbc.ca/1.6995053.1697204822!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/mohammad-tawfiq-fushanji.jpeg",
+      "publishedAt": "2023-10-14T11:42:42Z",
+      "content": "Mohammad Tawfiq Fushanji woke up to a text message from his brother earlier this week that was meant to reassure him. Instead, it made him panic and wonder what had just happened.\r\n\"Don't worry, we a… [+2489 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Earthquake country residents set to 'drop, cover and hold on' in annual ShakeOut quake drill",
+      "description": "People are set to duck under desks and tables in California and around the world for an annual drill practicing ways to stay safe during earthquakes",
+      "url": "https://abcnews.go.com/US/wireStory/earthquake-country-residents-set-drop-cover-hold-annual-104138678",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-10-19T15:02:03Z",
+      "content": "SACRAMENTO, Calif. -- People will duck under desks and tables in California and around the world on Thursday for an annual drill practicing ways to stay safe during earthquakes.\r\nUp and down the West… [+1687 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Afghanistan earthquake: More than 1,000 dead as villagers dig for survivors",
+      "description": "Villagers are searching through what is left of their homes with shovels and bare hands.",
+      "url": "https://www.bbc.co.uk/news/world-asia-67052252",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2979/production/_131371601_afghanquake.png",
+      "publishedAt": "2023-10-09T11:44:49Z",
+      "content": "Rescuers are digging for survivors of a powerful earthquake that flattened whole villages in Afghanistan, killing more than 1,000 people.\r\nThe 6.3-magnitude quake struck Saturday morning in Herat pro… [+3334 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "RAHIM FAIEZ Associated Press",
+      "title": "Senior Taliban officials visit villages struck by earthquake that killed at least 2,000 people",
+      "description": "A senior Taliban delegation is visiting western Afghanistan's Herat province in the aftermath of the powerful earthquake that killed at least 2,000 people and flattened entire villages",
+      "url": "https://abcnews.go.com/Business/wireStory/senior-taliban-officials-visit-villages-struck-earthquake-killed-103826735",
+      "urlToImage": "https://i.abcnewsfe.com/a/05bf646f-08e8-485f-9c01-c69e074e94dc/wirestory_0aecf4c94979bd663d63922949f5ad0b_16x9.jpg?w=992",
+      "publishedAt": "2023-10-09T08:06:17Z",
+      "content": "ISLAMABAD -- A senior Taliban delegation was visiting western Afghanistans Herat province on Monday in the aftermath of the powerful earthquake that killed at least 2,000 people over the weekend and … [+3783 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "EBRAHIM NOROOZI Associated Press",
+      "title": "Quake in Afghanistan leaves rubble, funerals and survivors struggling with loss",
+      "description": "One of the most destructive earthquakes in Afghanistan's recent history leveled whole villages in Herat province, leaving behind nothing but rubble and funerals",
+      "url": "https://abcnews.go.com/International/wireStory/quake-afghanistan-leaves-rubble-funerals-survivors-struggling-loss-103881918",
+      "urlToImage": "https://i.abcnewsfe.com/a/dcd98d2b-bd49-46d8-8b01-000b9b88153d/wirestory_07d767e0b1caf270485fb79deeaf324e_16x9.jpg?w=992",
+      "publishedAt": "2023-10-11T04:06:10Z",
+      "content": "ZINDA JAN, Afghanistan -- Nurullah crossed the border into Iran to earn money for his family, like so many men from his village in western Afghanistan.\r\nOn Sunday, he stood on the side of the road cr… [+2993 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "WASBIR HUSSAIN Associated Press, ANUPAM NATH Associated Press",
+      "title": "Indian rescue copters are flying into region where flood washed out bridges and killed at least 52",
+      "description": "Air force helicopters have been able to land to rescue people in India’s Himalayan northeast after a 6-year-old hydroelectric dam cracked open last week in intense rain, flooding a valley with glacial lake water and washing away bridges and homes as th...",
+      "url": "https://abcnews.go.com/International/wireStory/indian-rescue-copters-flying-region-flood-washed-bridges-103826273",
+      "urlToImage": "https://i.abcnewsfe.com/a/999836f5-a519-40fc-9bf8-755fb05242d3/wirestory_f2b2657f4212f996b2861e04ac2e1fc5_16x9.jpg?w=992",
+      "publishedAt": "2023-10-09T07:02:51Z",
+      "content": "GANGTOK, India -- Air force helicopters were able to land Monday to rescue people in India's Himalayan northeast after a 6-year-old hydroelectric dam cracked open last week in intense rain, flooding … [+3437 chars]"
+    }
+  ]
+}
