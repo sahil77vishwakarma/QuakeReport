@@ -41,7 +41,9 @@ class NewsFragment : Fragment(), NewsItemClicked {
     }
 
     private fun fetchData() {
-        val url = "https://saurav.tech/NewsAPI/top-headlines/category/health/in.json"
+        val url = "https://sahil77vishwakarma.github.io/apitest/sample.json"
+
+            //"https://saurav.tech/NewsAPI/top-headlines/category/health/in.json"
 
         //https://newsapi.org/v2/everything?q=earthquake AND magnitude&sources=bbc-news,time,abc-news,cbc-news&apiKey=3798bbe662c0440f8e3263114f32a11b
         val jsonObjectRequest = JsonObjectRequest(
@@ -53,12 +55,17 @@ class NewsFragment : Fragment(), NewsItemClicked {
                 val newsArray = ArrayList<News>()
                 for(i in 0 until newsJsonArray.length()) {
                     val newsJsonObject = newsJsonArray.getJSONObject(i)
-                    val news = News(
-                        newsJsonObject.getString("title"),
-                        newsJsonObject.getString("author"),
-                        newsJsonObject.getString("url"),
-                        newsJsonObject.getString("urlToImage")
-                    )
+
+                    val title = newsJsonObject.getString("title")
+                    var author = newsJsonObject.getString("author")
+                    val url = newsJsonObject.getString("url")
+                    val urlToImage = newsJsonObject.getString("urlToImage")
+
+                    if(author == "null"){
+                        author = "https://earthquake.usgs.gov"
+                    }
+
+                    val news = News(title,author,url,urlToImage)
                     newsArray.add(news)
                 }
                 mAdapter.updateNews(newsArray)

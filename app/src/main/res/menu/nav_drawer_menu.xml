@@ -1,30 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:showIn = "navigation_view">
+    tools:showIn="navigation_view">
 
     <group
         android:checkableBehavior="single">
 
         <item
-            android:id="@+id/nav_prime"
-            android:title="Prime"/>
-
-        <item
             android:id="@+id/nav_news"
-            android:title="News"/>
+            android:title="News"
+            android:icon="@drawable/baseline_newsicon_24" />
 
         <item
             android:id="@+id/nav_latest"
-            android:title="Latest"/>
+            android:title="Latest"
+            android:icon="@drawable/news_vector_asset" />
 
         <item
             android:id="@+id/nav_prediction"
-            android:title="Prediction"/>
+            android:title="Prediction"
+            android:icon="@drawable/predictionicon_24" />
 
         <item
             android:id="@+id/nav_measures"
-            android:title="Measures"/>
+            android:title="Measures"
+            android:icon="@drawable/measureicon_24" />
+
+        <item
+            android:id="@+id/nav_setting"
+            android:title="Setting"
+            android:icon="@drawable/baseline_settings_24" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:title="About"
+            android:icon="@drawable/abouticon_24" />
 
     </group>
 

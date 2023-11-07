@@ -11,6 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity="center"
+        android:alpha="0.9"
         android:src="@drawable/nav_drawer_img"
         android:scaleType="centerCrop"/>
 

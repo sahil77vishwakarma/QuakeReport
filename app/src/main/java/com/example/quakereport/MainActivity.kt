@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.Toast
+import android.widget.Toolbar
 import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.core.view.GravityCompat
 import androidx.fragment.app.Fragment
@@ -66,17 +67,28 @@ class MainActivity : AppCompatActivity(),NavigationView.OnNavigationItemSelected
 
     }
 
-
+    //Handling the onclick of the Toolbar item
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        if(toggle.onOptionsItemSelected(item)){
-            return true
+        when (item.itemId) {
+            R.id.refresh -> {
+                // Get the instance of LatestFragment
+
+            }
+            R.id.filter -> {
+                // Perform action for menu item 2
+                return true
+            }
+            R.id.more -> {
+                // Perform action for menu item 2
+                return true
+            }
         }
         return super.onOptionsItemSelected(item)
     }
 
 
     //// Handling the on clicks of the Navigation drawer
-    override fun onNavigationItemSelected(item: MenuItem): Boolean {3
+    override fun onNavigationItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
             R.id.nav_latest -> {
                 openFragment(LatestFragment())
@@ -95,7 +107,15 @@ class MainActivity : AppCompatActivity(),NavigationView.OnNavigationItemSelected
                 openFragment(NewsFragment())
                 binding.bottomNavigation.selectedItemId = R.id.bottom_news
             }
-            R.id.nav_prime -> Toast.makeText(this, "Prime ", Toast.LENGTH_SHORT).show()
+            R.id.nav_setting -> {
+                //Open the Account page
+
+            }
+            R.id.nav_about -> {
+                //Open the About page
+
+            }
+
         }
 
         binding.drawerLayout.closeDrawer(GravityCompat.START)

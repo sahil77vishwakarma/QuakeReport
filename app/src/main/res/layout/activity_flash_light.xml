@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+
+    android:background="#EAE9E9"
+    android:orientation="vertical"
+    tools:context=".screens.FlashLightActivity">
 
     <LinearLayout
+        android:id="@+id/headFlashLight"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
+
+        android:background="#FFFFFF"
         android:paddingVertical="12dp">
 
         <ImageView
-            android:id="@+id/alertBackButton"
+            android:id="@+id/flashLightBackButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
@@ -24,18 +32,20 @@
             android:layout_gravity="center_vertical"
             android:gravity="center"
             android:paddingRight="40dp"
-            android:text="Survival Tips"
+            android:text="Flash Light"
             android:textColor="@color/black"
-            android:textSize="18sp"
-            android:textStyle="bold" />
+            android:textSize="22sp"
+            android:textStyle="bold"/>
 
     </LinearLayout>
 
-    <ImageView
-        android:layout_width="100dp"
+    <Switch
+        android:id="@+id/flashlightSwitch"
+        android:layout_width="wrap_content"
+        style="@style/LargeSwitch"
         android:layout_height="match_parent"
         android:layout_gravity="center"
-        android:background="@android:color/white"
-        android:src="@drawable/volume" />
-
+        android:text="Flashlight"
+        android:textSize="18sp"
+        android:layout_margin="16dp"/>
 </LinearLayout>

@@ -3,7 +3,7 @@
     <item
         android:id="@+id/bottom_news"
         android:title="News"
-        android:icon="@drawable/news_vector_asset"/>
+        android:icon="@drawable/baseline_newsicon_24"/>
     <item
         android:id="@+id/bottom_latest"
         android:title="Latest"
@@ -12,10 +12,10 @@
     <item
         android:id="@+id/bottom_prediction"
         android:title="Prediction"
-        android:icon="@drawable/news_vector_asset"/>
+        android:icon="@drawable/predictionicon_24"/>
 
     <item
         android:id="@+id/bottom_measures"
         android:title="Measures"
-        android:icon="@drawable/news_vector_asset"/>
+        android:icon="@drawable/measureicon_24"/>
 </menu>

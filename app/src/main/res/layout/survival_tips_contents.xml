@@ -10,12 +10,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:padding="8dp">
+        android:paddingVertical="12dp">
 
         <ImageView
             android:id="@+id/backButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
             android:src="@drawable/baseline_arrow_back_24"
             android:contentDescription="Back"/>
 
@@ -34,6 +35,7 @@
 
     <ScrollView
         android:layout_width="match_parent"
+        android:background="#EAE9E9"
         android:layout_height="wrap_content">
 
         <LinearLayout
@@ -671,7 +673,7 @@ the earthquake"
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Source: UCLA"
+                android:text="Source: Quake Report"
                 android:gravity="center_horizontal"
                 android:layout_marginBottom="30dp"/>
 

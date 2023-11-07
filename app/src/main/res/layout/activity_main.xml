@@ -36,7 +36,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
-            android:background="#FFAAAA"
+            android:background="#E1DADA"
             app:labelVisibilityMode="labeled"
             app:menu="@menu/bottom_menu"
             android:layout_alignParentBottom="true" />
@@ -51,8 +51,32 @@
         android:layout_gravity="start"
         android:fitsSystemWindows="true"
         app:headerLayout="@layout/nav_header"
-        app:itemIconTint="@color/red"
-        app:itemTextColor="@color/red"
-        app:menu="@menu/nav_drawer_menu" />
+        android:background="#E6E6E6"
+        app:labelVisibilityMode="labeled"
+        app:menu="@menu/nav_drawer_menu" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical">
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#393939"
+            android:textSize="15sp"
+            android:text="Did You Feel It"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#393939"
+            android:textSize="22sp"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            android:text="Quake Report"
+            android:layout_gravity="center_horizontal" />
+    </LinearLayout>
+    </com.google.android.material.navigation.NavigationView>
 </androidx.drawerlayout.widget.DrawerLayout>

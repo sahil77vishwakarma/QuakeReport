@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".news.NewsFragment">
 
-
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/latest_recyclerView"
         android:layout_width="0dp"
@@ -17,18 +16,18 @@
         app:layout_constraintTop_toTopOf="parent" />
 
 
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/view_map"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/baseline_map_24"
-        app:backgroundTint="#E15D5D"
-        app:elevation="6dp"
-        app:fabSize="normal"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:rippleColor="@color/white"
-        app:tint="@android:color/white"
-        app:useCompatPadding="true" />
+    <!--    <com.google.android.material.floatingactionbutton.FloatingActionButton-->
+    <!--        android:id="@+id/view_map"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:src="@drawable/baseline_map_24"-->
+    <!--        app:backgroundTint="#E15D5D"-->
+    <!--        app:elevation="6dp"-->
+    <!--        app:fabSize="normal"-->
+    <!--        app:layout_constraintRight_toRightOf="parent"-->
+    <!--        app:layout_constraintTop_toTopOf="parent"-->
+    <!--        app:rippleColor="@color/white"-->
+    <!--        app:tint="@android:color/white"-->
+    <!--        app:useCompatPadding="true" />-->
 
 </androidx.constraintlayout.widget.ConstraintLayout>
